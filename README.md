@@ -1,4 +1,4 @@
 # hello-world
 This repository is for practicing.
 
-I ma making this clear.
+I am making this clear.
